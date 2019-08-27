@@ -1,0 +1,12 @@
+c:\users\sistemas\documents\visual studio 2013\Projects\Practica5Reynaldo\Practica5Reynaldo\bin\Debug\Practica5Reynaldo.exe.config
+c:\users\sistemas\documents\visual studio 2013\Projects\Practica5Reynaldo\Practica5Reynaldo\bin\Debug\Practica5Reynaldo.exe
+c:\users\sistemas\documents\visual studio 2013\Projects\Practica5Reynaldo\Practica5Reynaldo\bin\Debug\Practica5Reynaldo.pdb
+c:\users\sistemas\documents\visual studio 2013\Projects\Practica5Reynaldo\Practica5Reynaldo\obj\Debug\Practica5Reynaldo.csprojResolveAssemblyReference.cache
+c:\users\sistemas\documents\visual studio 2013\Projects\Practica5Reynaldo\Practica5Reynaldo\obj\Debug\Practica5Reynaldo.exe
+c:\users\sistemas\documents\visual studio 2013\Projects\Practica5Reynaldo\Practica5Reynaldo\obj\Debug\Practica5Reynaldo.pdb
+C:\proyectos\PracticasReynaldo\Practica5Reynaldo\Practica5Reynaldo\Practica5Reynaldo\bin\Debug\Practica5Reynaldo.exe.config
+C:\proyectos\PracticasReynaldo\Practica5Reynaldo\Practica5Reynaldo\Practica5Reynaldo\obj\Debug\Practica5Reynaldo.exe
+C:\proyectos\PracticasReynaldo\Practica5Reynaldo\Practica5Reynaldo\Practica5Reynaldo\obj\Debug\Practica5Reynaldo.pdb
+C:\proyectos\PracticasReynaldo\Practica5Reynaldo\Practica5Reynaldo\Practica5Reynaldo\bin\Debug\Practica5Reynaldo.exe
+C:\proyectos\PracticasReynaldo\Practica5Reynaldo\Practica5Reynaldo\Practica5Reynaldo\bin\Debug\Practica5Reynaldo.pdb
+C:\proyectos\PracticasReynaldo\Practica5Reynaldo\Practica5Reynaldo\Practica5Reynaldo\obj\Debug\Practica5Reynaldo.csprojResolveAssemblyReference.cache
